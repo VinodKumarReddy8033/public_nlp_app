@@ -27,8 +27,8 @@ from wordcloud import WordCloud
 import plotly.express as px
 
 lemmatizer = WordNetLemmatizer()
-loaded_model=pickle.load(open(r"C:\Users\vk803\OneDrive\Desktop\project 3\model.pkl",'rb'))
-vector=pickle.load(open(r"C:\Users\vk803\OneDrive\Desktop\project 3\vector.pkl",'rb'))
+loaded_model=pickle.load(open("model.pkl",'rb'))
+vector=pickle.load(open("vector.pkl",'rb'))
 
     
 
