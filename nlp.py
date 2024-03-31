@@ -16,9 +16,6 @@ import os
 from docx import Document
 import PyPDF2
 import matplotlib.pyplot as plt
-import seaborn as sns
-import warnings
-warnings.filterwarnings('ignore')
 import re
 import nltk
 from nltk import word_tokenize
