@@ -19,6 +19,7 @@ import matplotlib.pyplot as plt
 import re
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
 from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
