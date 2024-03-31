@@ -11,3 +11,4 @@ nltk==3.8.1
 docx2txt==0.8
 matplotlib==3.7.1
 matplotlib-inline==0.1.6
+plotly==5.9.0
