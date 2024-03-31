@@ -15,7 +15,6 @@ import docx
 import os
 from docx import Document
 import PyPDF2
-import win32com.client
 import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
